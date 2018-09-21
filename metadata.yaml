@@ -1,0 +1,36 @@
+_repo: I-Will-Maintain_53549
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bowen, Marjorie
+    aliases:
+    - Campbell, Gabrielle Margaret Vere
+    - Campbell, Margaret
+    - Long, Mrs. Arthur
+    - Paye, Robert
+    - Long, Margaret Gabrielle Vere Campbell
+    - Long, Gabrielle Margaret Vere Campbell
+    - Costanzo, Gabrielle Margaret Vere Campbell
+    birthdate: 1888
+    deathdate: 1952
+    gutenberg_agent_id: '41727'
+    url: http://www.gutenberg.org/2009/agents/41727
+description: ''
+gutenberg_issued: '2016-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biographical fiction'
+- !lcsh 'Netherlands -- Kings and rulers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Netherlands -- History -- 1648-1714 -- Fiction'
+- !lcsh 'William III, King of England, 1650-1702 -- Fiction'
+- GITenberg
+title: I Will Maintain
+url: http://www.gutenberg.org/ebooks/53549
